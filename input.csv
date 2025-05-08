@@ -1,0 +1,5 @@
+apiId,operationId,apiDisplayName,apiPath,protocols,serviceUrl,apiDescription,method,urlTemplate,responseStatusCode,responseDescription,rewriteUri,gatewayId
+default-api1,get-continents,Employee API,asia,https,http://dummy-json.mock.beeceptor.com/continents,Mashery migrated API,GET,/asia,200,Successful response,/continents1,local-gw
+default-api2,get-continents,Continent API,asia1,https,http://dummy-json.mock.beeceptor.com/continents,Mashery migrated API,GET,/asia1,200,Successful response,/continents2,local-gw
+default-api3,get-continents,State API,asia2,https,http://dummy-json.mock.beeceptor.com/continents,Mashery migrated API,GET,/asia2,200,Successful response,/continents3,local-gw
+default-api4,get-continents,Country API,asia3,https,http://dummy-json.mock.beeceptor.com/continents,Mashery migrated API,GET,/asia3,200,Successful response,/continents4,local-gw
