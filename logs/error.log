@@ -1,0 +1,31 @@
+[ERROR] 2025-08-18T20:47:22.942Z - ⚠️ Failed to create operation/policy 'post-integrationapi-test-pc' on API 'dev-porteconnect': Request failed with status code 400
+[ERROR] 2025-08-18T20:47:23.232Z - ⚠️ Failed to create operation/policy 'get-integrationapi-test-pc' on API 'dev-porteconnect': Request failed with status code 400
+[ERROR] 2025-08-18T20:47:28.160Z - ❌ Failed MAIN API steps for "DEV-PORTE-EXT-Services": Request failed with status code 400
+[ERROR] 2025-08-18T20:48:50.784Z - ❌ Failed MAIN API steps for "DEV-PorteConnect-Galileo-NonCDE-Ext-flare": Request failed with status code 400
+[ERROR] 2025-08-18T20:48:58.830Z - ❌ Failed MAIN API steps for "DEV-PorteConnect-Mobile-NonCDE-Ext-flare": Request failed with status code 400
+[ERROR] 2025-08-18T20:48:59.078Z - ❌ Failed MAIN API steps for "DEV-PorteConnect-Mobile-NonCDE-Ext-dda": Request failed with status code 400
+[ERROR] 2025-08-18T20:48:59.393Z - ❌ Failed MAIN API steps for "DEV-PorteConnect-Mobile-NonCDE-Ext-debit": Request failed with status code 400
+[ERROR] 2025-08-18T20:48:59.639Z - ❌ Failed MAIN API steps for "DEV-PorteConnect-Mobile-NonCDE-Ext-shared": Request failed with status code 400
+[ERROR] 2025-08-18T20:56:31.132Z - ❌ Failed MAIN API steps for "QA-PorteConnect-Galileo-NonCDE-Ext": Request failed with status code 400
+[ERROR] 2025-08-18T20:56:35.548Z - ❌ Failed MAIN API steps for "QA-PorteConnect-Mobile-NonCDE-Ext": Request failed with status code 400
+[ERROR] 2025-08-18T20:56:40.116Z - ⚠️ Failed to create operation/policy 'post-debit' on API 'qa-porteconnect-mobile-noncde-ext': Request failed with status code 400
+[ERROR] 2025-08-18T20:56:40.402Z - ⚠️ Failed to create operation/policy 'get-debit' on API 'qa-porteconnect-mobile-noncde-ext': Request failed with status code 400
+[ERROR] 2025-08-18T20:56:40.670Z - ⚠️ Failed to create operation/policy 'post-shared' on API 'qa-porteconnect-mobile-noncde-ext': Request failed with status code 400
+[ERROR] 2025-08-18T20:56:40.930Z - ⚠️ Failed to create operation/policy 'get-shared' on API 'qa-porteconnect-mobile-noncde-ext': Request failed with status code 400
+[ERROR] 2025-08-18T21:00:37.544Z - ❌ Failed MAIN API steps for "PayloadValidateAPI": Request failed with status code 400
+[ERROR] 2025-08-18T21:01:43.004Z - ❌ Failed MAIN API steps for "STG-PORTE-INT-Services": Request failed with status code 400
+[ERROR] 2025-08-18T21:01:43.370Z - ❌ Failed MAIN API steps for "STG-PORTE-INT-Services": Request failed with status code 400
+[ERROR] 2025-08-18T21:01:47.451Z - 
+❗ 11 failed API rows written to 'failed_apis.xlsx'
+[ERROR] 2025-08-22T20:11:38.840Z - ❌ Failed MAIN API steps for "DEV-PORTE-INT-Services-v1-users": Request failed with status code 401
+[ERROR] 2025-08-22T20:11:39.220Z - ❌ Failed MAIN API steps for "DEV-PORTE-INT-Services-v1-messaging": Request failed with status code 401
+[ERROR] 2025-08-22T20:11:39.644Z - ❌ Failed MAIN API steps for "DEV-PORTE-INT-Services-v2-messaging": Request failed with status code 401
+[ERROR] 2025-08-22T20:11:40.037Z - ❌ Failed MAIN API steps for "DEV-PORTE-INT-Services-v2-users": Request failed with status code 401
+[ERROR] 2025-08-22T20:11:40.498Z - ❌ Failed MAIN API steps for "DEV-PORTE-INT-Services-v1-AddressVerificationService": Request failed with status code 401
+[ERROR] 2025-08-22T20:11:40.583Z - ❌ Failed MAIN API steps for "DEV-PORTE-INT-Services-v2-PortePOSOrchestration": Request failed with status code 401
+[ERROR] 2025-08-22T20:11:41.042Z - ❌ Failed MAIN API steps for "DEV-Cheetah-v1-echoapi": Request failed with status code 401
+[ERROR] 2025-08-22T20:13:26.249Z - ❌ Failed MAIN API steps for "DEV-PORTE-INT-Services-v1-users": Request failed with status code 401
+[ERROR] 2025-08-22T20:13:26.733Z - ❌ Failed MAIN API steps for "DEV-PORTE-INT-Services-v1-messaging": Request failed with status code 401
+[ERROR] 2025-08-22T20:13:27.114Z - ❌ Failed MAIN API steps for "DEV-PORTE-INT-Services-v2-messaging": Request failed with status code 401
+[ERROR] 2025-08-22T20:13:27.554Z - ❌ Failed MAIN API steps for "DEV-PORTE-INT-Services-v2-users": Request failed with status code 401
+[ERROR] 2025-08-22T20:13:27.966Z - ❌ Failed MAIN API steps for "DEV-PORTE-INT-Services-v1-AddressVerificationService": Request failed with status code 401

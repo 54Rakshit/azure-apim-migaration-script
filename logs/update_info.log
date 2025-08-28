@@ -1,0 +1,308 @@
+[INFO] 2025-08-22T12:18:37.217Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:18:49.717Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:18:50.391Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:18:51.547Z - ✅ Operation 'delete-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:18:52.249Z - ✅ Operation 'patch-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:18:52.915Z - ✅ Operation 'options-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:18:53.521Z - ✅ Operation 'get-configurationservice-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:18:54.217Z - ✅ Operation 'post-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:18:54.940Z - ✅ Operation 'get-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:18:55.621Z - ✅ Operation 'put-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:18:56.241Z - ✅ Operation 'delete-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:18:56.986Z - ✅ Operation 'patch-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:18:57.644Z - ✅ Operation 'options-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:18:58.278Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:18:58.973Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:18:59.606Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:00.253Z - ✅ Operation 'delete-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:00.990Z - ✅ Operation 'head-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:01.686Z - ✅ Operation 'patch-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:02.329Z - ✅ Operation 'options-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:03.070Z - ✅ Operation 'post-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:03.722Z - ✅ Operation 'get-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:04.383Z - ✅ Operation 'put-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:05.059Z - ✅ Operation 'delete-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:05.762Z - ✅ Operation 'patch-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:06.503Z - ✅ Operation 'options-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:07.171Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:17.431Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:18.619Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:19.684Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:20.439Z - ✅ Operation 'delete-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:21.101Z - ✅ Operation 'patch-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:21.746Z - ✅ Operation 'options-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:22.365Z - ✅ Operation 'get-configurationservice-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:22.963Z - ✅ Operation 'post-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:23.581Z - ✅ Operation 'get-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:24.170Z - ✅ Operation 'put-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:24.752Z - ✅ Operation 'delete-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:25.392Z - ✅ Operation 'patch-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:26.002Z - ✅ Operation 'options-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:26.607Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:27.239Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:27.898Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:28.726Z - ✅ Operation 'delete-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:29.336Z - ✅ Operation 'head-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:29.951Z - ✅ Operation 'patch-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:30.542Z - ✅ Operation 'options-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:31.588Z - ✅ Operation 'post-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:32.243Z - ✅ Operation 'get-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:32.904Z - ✅ Operation 'put-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:33.522Z - ✅ Operation 'delete-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:34.177Z - ✅ Operation 'patch-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:34.817Z - ✅ Operation 'options-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:35.408Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:36.101Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:36.832Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:37.620Z - ✅ Operation 'delete-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:42.389Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:43.621Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:19:44.343Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:20:42.584Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:22:34.016Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:16.207Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:23.626Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:23.950Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:24.383Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:24.953Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:25.261Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:25.585Z - ✅ Operation 'delete-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:26.158Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:26.454Z - ✅ Operation 'patch-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:26.773Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:27.310Z - ✅ Operation 'options-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:27.616Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:27.970Z - ✅ Operation 'get-configurationservice-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:28.294Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-configurationservice-2' (base: '/porteconfigurationservice/api').
+[INFO] 2025-08-22T12:35:28.621Z - ✅ Operation 'post-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:28.934Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:29.260Z - ✅ Operation 'get-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:29.582Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:29.946Z - ✅ Operation 'put-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:30.272Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:30.596Z - ✅ Operation 'delete-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:30.946Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:31.263Z - ✅ Operation 'patch-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:31.570Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:31.942Z - ✅ Operation 'options-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:32.258Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:38.232Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:38.686Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:39.328Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:39.829Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:40.361Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:40.877Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:41.221Z - ✅ Operation 'delete-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:41.755Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:42.350Z - ✅ Operation 'patch-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:42.717Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:43.277Z - ✅ Operation 'options-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:43.644Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:43.954Z - ✅ Operation 'get-configurationservice-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:44.274Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-configurationservice-2' (base: '/porteconfigurationservice/api').
+[INFO] 2025-08-22T12:35:44.724Z - ✅ Operation 'post-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:45.288Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:45.717Z - ✅ Operation 'get-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:46.050Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:46.430Z - ✅ Operation 'put-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:46.733Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:47.089Z - ✅ Operation 'delete-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:47.556Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:47.865Z - ✅ Operation 'patch-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:48.192Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:48.540Z - ✅ Operation 'options-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:48.841Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:49.166Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:49.698Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:50.015Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:50.322Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:50.663Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:50.976Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:51.321Z - ✅ Operation 'delete-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:51.663Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:51.995Z - ✅ Operation 'head-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:52.518Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'head-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:52.894Z - ✅ Operation 'patch-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:53.218Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:53.541Z - ✅ Operation 'options-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:53.852Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:54.261Z - ✅ Operation 'post-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:54.560Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:54.923Z - ✅ Operation 'get-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:55.255Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:55.607Z - ✅ Operation 'put-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:55.938Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:56.333Z - ✅ Operation 'delete-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:56.683Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:57.123Z - ✅ Operation 'patch-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:57.445Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:57.832Z - ✅ Operation 'options-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:58.151Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:58.575Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:58.895Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:59.245Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:35:59.547Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:35:59.864Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:36:00.189Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:36:00.518Z - ✅ Operation 'delete-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:36:01.217Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:36:01.704Z - ✅ Operation 'patch-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:36:02.017Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:36:02.418Z - ✅ Operation 'options-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:36:02.762Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T12:36:03.145Z - ✅ Operation 'post-emailcollection-cors' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:36:03.461Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-emailcollection-cors' (base: '/api/captureemail').
+[INFO] 2025-08-22T12:36:03.854Z - ✅ Operation 'get-emailcollection-cors' updated with path '/{*path}'.
+[INFO] 2025-08-22T12:36:04.194Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-emailcollection-cors' (base: '/api/captureemail').
+[INFO] 2025-08-22T13:04:33.422Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:04:36.574Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:04:43.846Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:04:48.262Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:04:49.795Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:04:51.918Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:04:54.065Z - ✅ Operation 'delete-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:04:56.111Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:04:57.657Z - ✅ Operation 'patch-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:00.155Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:01.809Z - ✅ Operation 'options-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:03.250Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:04.921Z - ✅ Operation 'get-configurationservice-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:06.730Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-configurationservice-2' (base: '/porteconfigurationservice/api').
+[INFO] 2025-08-22T13:05:07.752Z - ✅ Operation 'post-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:08.663Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:11.323Z - ✅ Operation 'get-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:12.687Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:13.909Z - ✅ Operation 'put-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:14.812Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:17.560Z - ✅ Operation 'delete-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:18.971Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:21.415Z - ✅ Operation 'patch-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:22.795Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:23.719Z - ✅ Operation 'options-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:25.146Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:26.084Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:26.967Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:27.819Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:28.766Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:30.277Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:31.162Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:32.637Z - ✅ Operation 'delete-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:33.503Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:35.927Z - ✅ Operation 'head-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:36.882Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'head-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:38.829Z - ✅ Operation 'patch-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:40.268Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:41.446Z - ✅ Operation 'options-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:43.834Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:45.670Z - ✅ Operation 'post-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:46.578Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:47.544Z - ✅ Operation 'get-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:49.040Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:51.903Z - ✅ Operation 'put-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:52.841Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:54.490Z - ✅ Operation 'delete-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:05:55.545Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:05:59.041Z - ✅ Operation 'patch-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:06:01.248Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:06:03.436Z - ✅ Operation 'options-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:06:04.858Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:06:06.463Z - ✅ Operation 'post-flare-noapikey' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:06:07.434Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-flare-noapikey' (base: '/PorteFlareInboundEventService').
+[INFO] 2025-08-22T13:06:09.019Z - ✅ Operation 'get-flare-noapikey' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:06:10.510Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-flare-noapikey' (base: '/PorteFlareInboundEventService').
+[INFO] 2025-08-22T13:06:13.142Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:06:15.374Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:06:16.379Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:06:19.009Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:06:20.068Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:06:21.037Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:06:22.458Z - ✅ Operation 'delete-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:06:24.126Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:06:25.495Z - ✅ Operation 'patch-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:06:26.805Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:06:30.297Z - ✅ Operation 'options-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:06:31.301Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T13:06:33.962Z - ✅ Operation 'post-emailcollection-cors' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:06:35.540Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-emailcollection-cors' (base: '/api/captureemail').
+[INFO] 2025-08-22T13:06:36.604Z - ✅ Operation 'get-emailcollection-cors' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:06:37.573Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-emailcollection-cors' (base: '/api/captureemail').
+[INFO] 2025-08-22T13:06:48.985Z - ✅ Operation 'post-noncdestageextloadtest2' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:06:51.554Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-noncdestageextloadtest2' (base: '/api/echoaddress').
+[INFO] 2025-08-22T13:06:53.233Z - ✅ Operation 'get-noncdestageextloadtest2' updated with path '/{*path}'.
+[INFO] 2025-08-22T13:06:54.677Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-noncdestageextloadtest2' (base: '/api/echoaddress').
+[INFO] 2025-08-22T16:30:21.361Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:21.957Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:23.389Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:24.105Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:24.859Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:25.520Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:26.300Z - ✅ Operation 'delete-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:27.154Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:27.654Z - ✅ Operation 'patch-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:28.085Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:28.658Z - ✅ Operation 'options-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:29.044Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:29.602Z - ✅ Operation 'get-configurationservice-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:30.219Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-configurationservice-2' (base: '/porteconfigurationservice/api').
+[INFO] 2025-08-22T16:30:30.867Z - ✅ Operation 'post-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:31.416Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:31.991Z - ✅ Operation 'get-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:33.316Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:33.925Z - ✅ Operation 'put-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:34.651Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:35.267Z - ✅ Operation 'delete-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:35.756Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:37.316Z - ✅ Operation 'patch-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:37.930Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:39.057Z - ✅ Operation 'options-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:40.254Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:41.465Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:42.131Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:43.256Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:44.088Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:44.789Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:45.200Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:45.721Z - ✅ Operation 'delete-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:46.094Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:46.620Z - ✅ Operation 'head-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:47.053Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'head-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:47.566Z - ✅ Operation 'patch-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:47.970Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:48.480Z - ✅ Operation 'options-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:48.888Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:49.384Z - ✅ Operation 'post-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:49.936Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:50.428Z - ✅ Operation 'get-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:50.815Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:51.640Z - ✅ Operation 'put-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:52.047Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:52.661Z - ✅ Operation 'delete-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:53.619Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:54.157Z - ✅ Operation 'patch-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:54.978Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:55.509Z - ✅ Operation 'options-enterpriseorchestration-2' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:56.079Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration-2' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:56.607Z - ✅ Operation 'post-flare-noapikey' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:57.158Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-flare-noapikey' (base: '/PorteFlareInboundEventService').
+[INFO] 2025-08-22T16:30:57.596Z - ✅ Operation 'get-flare-noapikey' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:57.966Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-flare-noapikey' (base: '/PorteFlareInboundEventService').
+[INFO] 2025-08-22T16:30:58.410Z - ✅ Operation 'post-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:30:58.817Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:30:59.455Z - ✅ Operation 'get-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:31:00.111Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:31:00.745Z - ✅ Operation 'put-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:31:01.321Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'put-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:31:02.711Z - ✅ Operation 'delete-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:31:03.260Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'delete-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:31:03.967Z - ✅ Operation 'patch-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:31:04.608Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'patch-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:31:05.234Z - ✅ Operation 'options-enterpriseorchestration' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:31:05.720Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'options-enterpriseorchestration' (base: '/enterpriseorchestration/api').
+[INFO] 2025-08-22T16:31:06.205Z - ✅ Operation 'post-emailcollection-cors' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:31:06.604Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-emailcollection-cors' (base: '/api/captureemail').
+[INFO] 2025-08-22T16:31:07.066Z - ✅ Operation 'get-emailcollection-cors' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:31:07.494Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-emailcollection-cors' (base: '/api/captureemail').
+[INFO] 2025-08-22T16:31:08.926Z - ✅ Operation 'post-noncdestageextloadtest2' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:31:09.404Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'post-noncdestageextloadtest2' (base: '/api/echoaddress').
+[INFO] 2025-08-22T16:31:09.847Z - ✅ Operation 'get-noncdestageextloadtest2' updated with path '/{*path}'.
+[INFO] 2025-08-22T16:31:10.227Z - ✅ Rewrite + quota/rate-limit policy applied to operation 'get-noncdestageextloadtest2' (base: '/api/echoaddress').
